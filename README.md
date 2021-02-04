@@ -1,3 +1,4 @@
+# 参考代码，慕课。组件化，插件化
 # NeteaseCloudMusic
 仿网易云音乐Android客户端V6.5.1版本 (此项目已使用谷歌最新架构重构地址[在这](https://github.com/zion223/NeteaseCloudMusic-MVVM))
 
